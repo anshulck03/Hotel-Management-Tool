@@ -1,4 +1,4 @@
-# Hotel-Management-OOP-Project
+# Hotel-Management-Tool
 •	Hotel Management tool used to manage activities like storing customer detail, booking/unbooking rooms, ordering food, and showing bill. Menu driven program, runs until user exists.
 •	File handling store status, and once restarted, data is not lost.
 •	Writing of file has been done in a separate thread as it can be done parallelly.
